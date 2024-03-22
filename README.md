@@ -1,1 +1,1 @@
-Recipe discovery app in flutter for Mobile App Developmment mid term proj
+Recipe discovery app in flutter for Mobile App Developmment mid-term project
